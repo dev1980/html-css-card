@@ -25,3 +25,27 @@ body {
     border-radius: 12px;
     border: 1px sold #BACDD8;
 }
+
+.tag {
+    padding: 4px 8px;
+    border: 1px solid #E5EAED;
+
+    border-radius: 50px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #788697;
+}
+
+.name {
+    font-size: 24px;
+    font-weight: 600;
+
+    margin-top: 16px;
+}
+
+p {
+    font-size: 14px;
+    color:#7F8C9B;
+    line-height: 150%;
+;
+}
